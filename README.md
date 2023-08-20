@@ -1,2 +1,1 @@
-# anti-ult-bot
-He tried to flex his gifted steam games to me (Had to save the code somewhere lmao)
+Clone this and make your own anti ult bot lmao
